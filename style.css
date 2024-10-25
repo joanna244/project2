@@ -1,0 +1,47 @@
+/* Additional custom styling */
+body {
+    background-color: #3792cf;
+    font-family: poppins, sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 500px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgb(163, 217, 253);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 30px ;
+
+}
+.form-label{
+    font-family: poppins, sans-serif;
+    font-size: 13px;
+}
+
+
+.btn {
+    background-color: rgb(84, 138, 255);
+    font-size: 14 px;
+    background-size: 30px;
+}
+.invalid-feedback{
+    font-family: poppins, sans-serif;
+    font-size: 12px;
+}
+.form-control {
+    font-family: poppins, sans-serif;
+    font-size: 13px;
+}
+.fa .form-label {
+    background-color: #3792cf;
+}
+
